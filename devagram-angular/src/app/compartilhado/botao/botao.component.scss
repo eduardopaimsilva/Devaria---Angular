@@ -32,4 +32,10 @@
     &:disabled{
         opacity: 0.5;
     }
+
+    &.botaoPublico{
+      margin-top: 40px;
+      padding: 12px;
+      font-family: 16px;
+    }
 }
